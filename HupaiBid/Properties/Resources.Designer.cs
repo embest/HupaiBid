@@ -63,16 +63,6 @@ namespace HupaiBid.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _10 {
-            get {
-                object obj = ResourceManager.GetObject("_10", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap bid {
             get {
                 object obj = ResourceManager.GetObject("bid", resourceCulture);
@@ -96,16 +86,6 @@ namespace HupaiBid.Properties {
         internal static System.Drawing.Bitmap cap {
             get {
                 object obj = ResourceManager.GetObject("cap", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pay {
-            get {
-                object obj = ResourceManager.GetObject("pay", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
